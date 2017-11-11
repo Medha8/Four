@@ -1,0 +1,23 @@
+There are two types of functions in JS
+Synchronous
+	returns value immediately
+Asynchronous
+	Doesn't
+	Things which take time, should go in asynchronous functions
+	Javascript is a single threaded language
+	Only one command can be run at a time
+
+
+	Hmm, mUkul, how would you go about doing this at the same time:
+		Converting an image from color to b&w (this takes 2 mins)
+		Showing a loading bar which shows progress
+
+		Conventional(both synchronous)
+		image = loadimage(display(image)) ~takes no time
+		loadLoadingBar() ~ will start off at 0%
+
+
+		function loadImage(function mukul){
+			%process taking time
+			mukul(image)
+		}
