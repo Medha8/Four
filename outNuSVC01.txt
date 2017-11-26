@@ -1,0 +1,16 @@
+classifier  rbf value of C= 0.0001  train= 1.0  test= 0.47593220339
+classifier  rbf value of C= 0.001  train= 1.0  test= 0.47593220339
+classifier  rbf value of C= 0.01  train= 1.0  test= 0.47593220339
+classifier  rbf value of C= 0.1  train= 1.0  test= 0.47593220339
+classifier  rbf value of C= 1  train= 1.0  test= 0.47593220339
+classifier  rbf value of C= 10  train= 1.0  test= 0.47593220339
+classifier  rbf value of C= 100  train= 1.0  test= 0.47593220339
+classifier  rbf value of C= 1000  train= 1.0  test= 0.47593220339
+classifier  poly value of C= 0.0001  train= 0.992429378531  test= 0.493898305085
+classifier  poly value of C= 0.001  train= 0.992429378531  test= 0.493898305085
+classifier  poly value of C= 0.01  train= 0.992429378531  test= 0.493898305085
+classifier  poly value of C= 0.1  train= 0.992429378531  test= 0.493898305085
+classifier  poly value of C= 1  train= 0.992429378531  test= 0.493898305085
+classifier  poly value of C= 10  train= 0.992429378531  test= 0.493898305085
+classifier  poly value of C= 100  train= 0.992429378531  test= 0.493898305085
+classifier  poly value of C= 1000  train= 0.992429378531  test= 0.493898305085
