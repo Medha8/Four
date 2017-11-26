@@ -28,7 +28,7 @@ if __name__=="__main__":
 	
 	X = preprocessing.scale(X_)
 	
-	pca = PCA(n_components=32)
+	pca = PCA(n_components=28)
 	Xnew = pca.fit_transform(X)
 	list_ = []
 	for i in range(0,len(Xnew)):
