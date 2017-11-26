@@ -11,6 +11,7 @@ from sklearn import preprocessing
 from sklearn.metrics import mean_squared_error
 from sklearn.svm import LinearSVC
 
+
 def loadData(filename):
 	X = []
 	Y = []
@@ -73,9 +74,9 @@ if __name__=="__main__":
 					y_test.append(Y[i])
 				
 				#
-				clf = svm.SVC(kernel=classifier,gamma="auto" , C=C)
+				clf = sklearn.svm.NuSVC(kernel=classifier,gamma="auto" ,nu= 0.1)
 				clf.fit(x_train, y_train) 
-				'''
+				'''			
 				clf = LinearSVC(penalty='l2', random_state=0)
 				clf.fit(x_train, y_train)
 				'''
