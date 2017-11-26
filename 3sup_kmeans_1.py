@@ -26,32 +26,32 @@ if __name__=="__main__":
 	X_, y = loadData(sys.argv[1])
 	X_new = preprocessing.scale(X_)
 
-	num_features = 14
-	feel_dict = {"neutral":1,
-	"disgust":2,
-	"panic":3,
-	"anxiety":4,
-	"hot":5,
-	"cold":6,
-	"despair":7,
-	"sadness":8,
-	"elation":9,
-	"happy":10,
-	"interest":11,
-	"boredom":12,
-	"shame":13,
-	"pride":14,
+	num_features = 3
+	feel_dict = {"neutral":2,
+	"disgust":0,
+	"panic":0,
+	"anxiety":2,
+	"hot":1,
+	"cold":2,
+	"despair":2,
+	"sadness":0,
+	"elation":1,
+	"happy":1,
+	"interest":1,
+	"boredom":2,
+	"shame":2,
+	"pride":2,
 	"contempt":0}
 
 	Y_new = []
 	for item in y:
 		Y_new.append(feel_dict[item])
 
-	rs = ShuffleSplit(n_splits=5, test_size=.10, random_state=0)
+	rs = ShuffleSplit(n_splits=10, test_size=.10, random_state=0)
 	lis = []
 	for train_index, test_index in rs.split(X_new):
 		lis.append([train_index, test_index])
-	err = []
+	acc = []
 	for item in lis:
 		X = []
 		x_test = []
@@ -68,7 +68,7 @@ if __name__=="__main__":
 
 		p = np.zeros(28)
 		#cluster_mean_list = [[] for i in range(num_features)]
-		cluster_mean_list = [p, p, p, p, p, p, p, p, p, p, p, p, p, p]
+		cluster_mean_list = [p, p, p]
 		count_list = np.zeros(num_features)
 		for i in range(0,num_features):
 			for j in range(0,len(Y)):
@@ -107,7 +107,7 @@ if __name__=="__main__":
 			#recalculate mean
 			if no_change == False:
 				p = np.zeros(28)
-				cluster_mean_list = [p, p, p, p, p, p, p, p, p, p, p, p, p, p]
+				cluster_mean_list = [p, p, p]
 				count_list = np.zeros(num_features)
 				for i in range(0,num_features):
 					for j in range(0,len(cluster_assign)):
@@ -133,13 +133,15 @@ if __name__=="__main__":
 		pred = np.asarray(pred)
 		count = 0
 		missclass = 0
-		for i in range(0,len(pred)):
-			count = count + 1
-			if pred[i] != y_test[i]:
-				missclass = missclass + 1
-		err.append( float(missclass)/(count))
-	print np.mean(err)
-
+		acc.append(accuracy_score(pred, y_test))
+	print np.mean(acc)
+	'''
+	for i in range(0,len(pred)):
+		count = count + 1
+		if pred[i] != y_test[i]:
+			missclass = missclass + 1
+	print float(missclass)/(count)
+	'''
 
 			
 			
