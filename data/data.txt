@@ -1,0 +1,329 @@
+0.708 1.788 A: neutral,Two thousand one
+
+2.786 4.203 A: disgust, Five hundred and sixty seven
+
+5.445 7.001 A: panic, Eight hundred and nine
+
+9.125 10.368 A: anxiety, Six fifty four
+
+12.190 13.421 A: hot anger, Two fifty two
+
+14.640 15.697 A: cold anger, Hundred and nine
+
+16.811 18.657 A: despair, Five sixty seven
+
+20.236 21.618 A: sadness, Three hundred and ten
+
+23.452 24.799 A: elation, Eight forty Five
+
+25.681 27.469 A: happy, Nine seventy eight
+
+28.979 30.511 A: interest, Five Hundred and seven
+
+31.811 33. 414 A: boredom, Eight ninety four
+
+35.20 36.455 A: shame, Three hundred and nine
+
+37.20 38.429 A: pride, Four fifty eight
+
+39.451 41.471 A: contempt, Five hundred and six
+
+42.272 43.677 A: neutral, Four Hundred and twenty
+
+44.30 45.70 A: neutral, Five Hundred and three
+
+46.196 47.380 A: neutral, april tenth
+
+48.263 49.865 A: neutral, october twenty-first
+
+51.0 52.555 A: neutral, Five hundred and two
+
+53.603 54.904 A: neutral, July thirteeth
+
+56.448 57.853 A: neutral, One thousand and five
+
+58.897 60.511 A: neutral, Ten thousand and hundred
+
+61.626 63.077 A: neutral, June nineteen
+
+63.634 65.236 A: neutral, fifteen hundred and three
+
+66.769 68.708 A: disgust, Eight hundred and fifty six
+ 
+69.555 70.925 A: disgust, November eightenth
+ 
+72.284 74.083 A: disgust, Five thousand and fifty four
+ 
+75.98 78.321 A: disgust, Six thousand two hundred and sixty eight
+ 
+79.308 80.655 A: disgust, Six hundred and twenty eight
+ 
+81.711 83.998 A: disgust, Nine thousand nine hundred and twenty three
+ 
+85.577 87.040 A: disgust, July twenty six
+ 
+88.097 89.641 A: disgust, Eight thousand and eighty seven
+ 
+90.360 92.473 A: disgust, Five thousand six hundred and sixty nine
+ 
+93.344 94.830 A: disgust, December twenty fifth
+ 
+96.073 98.220 A: panic, Three thousand one hundred and seventy four
+ 
+98.36 100.786 A: panic, Two thousand nine hundred and seventy
+ 
+102.017 103.410 A: panic, May twenty second
+ 
+104.118 105.987 A: panic, Three thousand six hundred and fourty four
+ 
+107.230 108.785 A: panic, June twenty nineth
+ 
+109.529 111.816 A: panic, Four thousand seven hundred and fourty nine
+ 
+113.035 115.066 A: panic, Four thousand three hundred and seventy three
+ 
+116.0 117.845 A: panic, March thirty first
+ 
+118.608 119.885 A: panic, Two hundred and eight
+ 
+121.185 123.437 A: panic, Five thousand two hundred and fourty one
+ 
+124.424 125.980 A: anxiety, Two hundred and twenty eight
+ 
+127.687 129.358 A: anxiety, October fifteen
+ 
+13.624 132.656 A: anxiety, Three thousand one hundred and seven
+ 
+133.84 136.185 A: anxiety, Three thousand eight hundred and seventy nine
+ 
+137.671 139.981 A: anxiety, One thousand one hundred and forty four
+ 
+141.305 143.615 A: anxiety, Five thousand six hundred and sixty four
+ 
+145.043 146.878 A: anxiety, September sixteen
+ 
+148.584 150.245 A: anxiety, Six thousand three hundred and eight
+ 
+151.510 153.298 A: anxiety, Five thousand eight hundred and eight
+ 
+155.051 157.246 A: anxiety, Five thousand three hundred and seventeen
+ 
+158.604 160.926 A: hot anger, Nine thousand five hundred and ninety two
+ 
+162.157 164.188 A: hot anger, Eight thousand seven hundred and thirty three
+ 
+166.325 168.577 A: hot anger, Eight thousand one hundred and eighty six
+ 
+169.831 172.164 A: hot anger, Seven thousand four hundred and ninety seven
+ 
+173.964 175.787 A: hot anger, January thiry first
+ 
+177.261 178.968 A: hot anger, March nineteenth
+ 
+180.396 182.358 A: hot anger, Two thousand nine hundred and twenty five
+ 
+183.565 185.446 A: hot anger, Six thousand and fifteen
+ 
+186.967 189.080 A: hot anger, Three thousand six hundred and thirty
+ 
+190.311 191.994 A: hot anger, Eigth hundred and twenty
+ 
+194.049 196.127 A: cold anger, Three thousand five hundred and sixty seven
+ 
+197.091198.879 A: cold anger, One thousand one hundred and twelve
+ 
+200.597 202.629 A: cold anger, June twenty fourth
+ 
+203.743 206.193 A: cold anger, Seven thousand eight hundred and ninety three
+ 
+207.343 209.537 A: cold anger, Nine thousand three hundred and twenty six
+ 
+210.524 212.254 A: cold anger, February twenty nineth
+ 
+213.647 125.597 A: cold anger, Five thousand three hundred and twenty six
+ 
+216.398 218.395 A: cold anger, three thousand three hundred and sevety six
+ 
+219.359 221.727 A: cold anger, Seven thousand five hundred and ninety six
+ 
+223.10 224.792 A: cold anger, April fourteenth
+ 
+226.337 228.821 A: despair, Six thousand five hundred and fifty four
+ 
+230.179 232.409 A: despair, One thousand six hundred and sixty
+ 
+233.895 236.089 A: despair, Three thousand two hundred and eighty five
+ 
+237.772 240.152 A: despair, Nine thousand one hundred and ninety eight
+ 
+242.056 243.960 A: despair, Six hundred and nineteen
+ 
+245.528 247.432 A: despair, May twenty three
+ 
+249.104 251.369 A: despair, Eight thousaand and thirty five
+ 
+253.039 254.769 A: despair, Eleven thousand five hundred
+ 
+256.290 258.067 A: despair, Three hundred and seventy five
+ 
+259.704 262.246 A: despair, Nine thousand three hundred and fifty two
+ 
+263.581 264.021 A: sadness, March twenty
+ 
+265.880 267.645 A: sadness, One thousand and thirty five
+ 
+268.887 271.0 A: sadness, Five thousand eight hundred and ninety five
+ 
+272.393 274.727 A: sadness, Seven thousand three hundred and fifty five
+ 
+276.074 278.117 A: sadness, Four thousand six hundred and fifty one
+ 
+279.928 281.310 A: sadness, December twenty one
+ 
+282.250 284.363 A: sadness, One thousand five hundred sevety eight
+ 
+285.640 287.010 A: sadness, August twenty third
+ 
+288.520 290.133 A: sadness, September fifteen
+ 
+291.468 293.779 A: sadness, Eight thousand one hundred and thirty five
+ 
+295.126 297.482 A: elation, Five thousand eight hundred and fifty nine
+ 
+298.806 301.627 A: elation, Four thousand eight hundred and sevety four
+ 
+302.602 305.226 A: elation, Seven thousand six hundred and seventy four
+ 
+306.341 308.489 A: elation, Five thousand six hundred and seventy seven
+ 
+309.499 311.786 A: elation, One thousand three hundred and sixty four
+ 
+312.715 314.909 A: elation, Five thousand seven hundred and twenty
+ 
+316.267 318.508 A: elation, Six thousand and twenty four
+ 
+319.936 322.119 A: elation, Seven hundred and fourty five
+ 
+323.222 325.079 A: elation, Two thousand one hundred and five
+ 
+325.904 328.667 A: elation, Eight thousand nine hundred and sixty seven
+ 
+330.281 332.185 A: happy, Five thousand One hundred and thirty five
+ 
+332.603 335.064 A: happy, Six thousand five hundred and fifty five
+ 
+336.306 338.292 A: happy, Four thousand five hundred and six
+ 
+339.127 341.148 A: happy, Five thousand eight hundred and twenty three
+ 
+342.053 343.458 A: happy, December tenth
+ 
+344.538 346.639 A: happy, Three thousand five hundred and fifty six
+ 
+348.253 349.809 A: happy, Twelve thousand eight hundred
+ 
+351.388 353.303 A: happy, Ten thousand nine hundred and sixty
+ 
+354.511 356.101 A: happy, Five thousand and fifty eight
+ 
+357.135 359.317 A: happy, One thousand One hundred and fourty nine
+ 
+361.001 362.905 A: interest, Five thousand nine hundred and fifty seven
+ 
+364.159 365.668 A: interest, Two thousand and ninety six
+ 
+366.666 368.617 A: interest, Nine thousand one hundred and twenty one
+ 
+369.882 371.960 A: interest, eight thousand four hundred and ninety seven
+ 
+373.296 375.362 A: interest, Seven thousand six hundred and seventy seven
+ 
+376.430 377.754 A: interest, Eight hundred twenty one 
+ 
+379.786 382.142 A: interest, Five thousand six hundred and seventy eight
+ 
+382.665 384.615 A: interest, Six thousand two hundred and sixty eigth
+ 
+385.544 387.262 A: interest, Two thousand and nineteen
+
+388.772 391.012 A: interest, Nine thousand nine hundred and ninety nine
+ 
+392.963 395.355 A: boredom, Five thousand nine hundred and sixty eight
+ 
+396.132 367.526 A: boredom, January twenty
+ 
+398.559 400.869 A: boredom, One thousand one hundred and ninety
+ 
+401.752 403.969 A: boredom, Eight thousand two hundred and fifteen
+ 
+404.770 407.139 A: boredom, FOur thousand three hundred and thirty seven
+ 
+408.369 410.471 A: boredom, One hundred and thirty seven
+ 
+411.620 413.547 A: boredom, Five thousand and nineteen
+ 
+414.743 416.264 A: boredom, Six hundred and six
+ 
+417.274 418.366 A: boredom, Four hundred and eight
+ 
+419.213 420.537 A: boredom, Seventy three
+ 
+422.092 424.519 A: shame, Four thousand three hundred and seventy one
+ 
+425.622 427.363 A: shame, Eight thousand and nine
+ 
+428.954 431.171 A: shame, Eight thousand nine hundred and seven
+ 
+432.530 434.875 A: shame, Eigth thousand one hundred and eleven
+ 
+436.222 438.660 A: shame, Five thousand one hundred and seventy one
+ 
+439.856 441.853 A: shame, One thousand and eighty seven
+ 
+443.002 444.999 A: shame, three thousand and ninety one
+ 
+446.183 448.575 A: shame, thirteen thousand five hundred
+ 
+450.026 451.744 A: shame, One thousand and thirty
+ 
+453.230 454.949 A: shame, Seven hundred and eleven
+ 
+456.632 458.188 A: pride, Eight hundred and sixty one
+ 
+458.571 460.417 A: pride, Six thousand eight hundred and eleven
+ 
+461.485 463.261 A: pride, Five thousand one hundred and sixty four
+ 
+464.701 466.117 A: pride, Three hundred and thirty two
+ 
+467.290 469.357 A: pride, Six thousand five hundred and seventy five
+ 
+470.251 471.969 A: pride, Six thousand one hundred and eighty one
+ 
+473.118 474.964 A: pride, Three thousand one hundred and seventy nine
+ 
+475.881 477.994 A: pride, Six thousand four hundred and seventy six
+ 
+478.981 481.117 A: pride, three thousand three hundred and seventy eight
+ 
+482.174 484.066 A: pride, Two thousand five hundred and twenty one
+ 
+485.785 487.991 A: contempt, Five thousand five hundred and thirty
+ 
+489.558 491.404 A: contempt, Six thousand one hundred and one
+ 
+492.762 495.258 A: contempt, Eight thousand one hundred and eighty eight
+ 
+496.431 498.567 A: contempt, Nine thousand one hundred and one
+ 
+499.821 502.155 A: contempt, Seven thousand five hundred and thirty eight
+ 
+503.769 506.044 A: contempt, Two thousand four hundred and sixty one 
+ 
+507.704 510.409 A: contempt, Four thousand three hundred and fifty seven
+ 
+511.582 513.950 A: contempt, Nine thousand one hundred and seventy four
+ 
+515.425 517.677 A: contempt, Seven thousand five hundred and sixty
+ 
+518.827 520.591 A: contempt, January twenty-sixth
